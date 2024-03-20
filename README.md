@@ -1,5 +1,3 @@
-# v-tableau-comparative-analysis
-
 # A Comparative Analysis of Countries' Population, Education, Employment, and GDP
 
 This analysis is hosted on Tableau.
